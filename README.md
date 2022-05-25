@@ -86,7 +86,7 @@ Observando la siguiente tabla deducimos el respectivo prefijo métrico.
 El cloro contiene 17 electrones, por lo tanto, contiene 2.72x10-18 Q.
 4. ¿Cuántos electrones se requieren para producir 80 µC (microcoulombs) de carga?
 - SOLUCION:
-![image](https://user-images.githubusercontent.com/105893980/170205254-c63977c7-8b16-438b-b5fe-6327eebd6e44.png)
+- ![image](https://user-images.githubusercontent.com/105893980/170205254-c63977c7-8b16-438b-b5fe-6327eebd6e44.png)
 
 - SECCION 2 – 3 VOLTAJE, CORRIENTE Y RESISTENCIA
 
@@ -96,21 +96,21 @@ voltaje a través del resistor?
 Se necesitan 5v. V=W/Q
 8. ¿Cuánta energía utiliza una batería de 12V para mover 2,5 C por un circuito?
 - SOLUCION
-![image](https://user-images.githubusercontent.com/105893980/170205545-d398c0ee-2fbc-4c10-a5d5-dd31dc9e29b2.png)
+- ![image](https://user-images.githubusercontent.com/105893980/170205545-d398c0ee-2fbc-4c10-a5d5-dd31dc9e29b2.png)
 10. Determine la corriente en cada uno de los siguientes casos:
 - SOLUCION:
-![image](https://user-images.githubusercontent.com/105893980/170205640-fb3b383c-3942-4f7f-be20-3f56ae60d387.png)
+- ![image](https://user-images.githubusercontent.com/105893980/170205640-fb3b383c-3942-4f7f-be20-3f56ae60d387.png)
 12. ¿Cuánto tiempo requieren 10 C para fluir mas allá de un punto si la corriente es de 5 A?
 - SOLUCION:
-![image](https://user-images.githubusercontent.com/105893980/170205708-ffbb5b69-038d-4973-ba86-9dcb79697d80.png)
+- ![image](https://user-images.githubusercontent.com/105893980/170205708-ffbb5b69-038d-4973-ba86-9dcb79697d80.png)
 14. 5.74x1017 electrones fluyen para un alambre en 250 ms. ¿Cuál es la corriente en amperes?
 - SOLUCION:
-![image](https://user-images.githubusercontent.com/105893980/170205799-8b055630-052e-44b6-a9c5-67e20cfaf29d.png)
+- ![image](https://user-images.githubusercontent.com/105893980/170205799-8b055630-052e-44b6-a9c5-67e20cfaf29d.png)
 16. Encuentre la resistencia correspondiente a las siguientes conductancias:
 - SOLUCION:
 Se aplica a ley de la conductancia:
 G=1/S
-![image](https://user-images.githubusercontent.com/105893980/170205956-0ccfd318-9f1f-4f2d-b060-3d10b887336a.png)
+- ![image](https://user-images.githubusercontent.com/105893980/170205956-0ccfd318-9f1f-4f2d-b060-3d10b887336a.png)
 
 - SECCION 2-4 FUENTES DE VOLTAJE Y DE CORRIENTE 
 
@@ -119,7 +119,7 @@ G=1/S
 Se basa en el principio llamado inducción electromagnética 
 20. Cierta fuente de corriente proporciona 100 mA a 1 kΩ de carga. Si la resistencia disminuye a 500 Ω ¿Cuál es la corriente en la carga?
 - SOLUCION:
-![image](https://user-images.githubusercontent.com/105893980/170206165-0fcb5b7f-a08d-4def-8333-d926cf663319.png)
+- ![image](https://user-images.githubusercontent.com/105893980/170206165-0fcb5b7f-a08d-4def-8333-d926cf663319.png)
 
 - SECCION 2-5 RESISTORES
 
@@ -127,15 +127,15 @@ Se basa en el principio llamado inducción electromagnética
 resistor del problema 1.
 - SOLUCION: 
 Primero identificamos el valor de la resistencia, después para sacar el mínimo y máximo se aplica una regla de 3.
-![image](https://user-images.githubusercontent.com/105893980/170206299-2059b24a-2575-486d-8170-48465e4c4d98.png)
+- ![image](https://user-images.githubusercontent.com/105893980/170206299-2059b24a-2575-486d-8170-48465e4c4d98.png)
 24. Determine las resistencias y la tolerancia de cada uno de los siguientes resistores de 4 bandas
 - SOLUCION: 
 Para identificar las resistencias de 4 bandas, las 2 primeras bandas serán el numero correspondiente, mientras que la tercera banda será el multiplicador y la última banda será la que nos indique la tolerancia de la misma. 
-![image](https://user-images.githubusercontent.com/105893980/170206421-b435a8ca-b9bb-4458-b62d-a5f0ce05b1e0.png)
+- ![image](https://user-images.githubusercontent.com/105893980/170206421-b435a8ca-b9bb-4458-b62d-a5f0ce05b1e0.png)
 26. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:
 - SOLUCION: 
 Para identificar una resistencia de 5 bandas, nos ubicaremos con la tabla de colores, sabiendo que las 3 primeras franjas definirán los números, la cuarta banda será el multiplicador y la quinta banda será la tolerancia de la resistencia. 
-![image](https://user-images.githubusercontent.com/105893980/170206537-a51bf7d6-af3d-4872-a35b-dbf30860790e.png)
+- ![image](https://user-images.githubusercontent.com/105893980/170206537-a51bf7d6-af3d-4872-a35b-dbf30860790e.png)
 28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. 
 Si la resistencia total es de 1000 Ω, ¿Cuál es la resistencia entre cada terminal y el contacto 
 ajustable?
@@ -143,7 +143,7 @@ ajustable?
 Un potenciómetro tiene dos resistencias fijas que conforman la resistencia total, es decir, la Rt es de 1000 Ω, divida para las dos resistencias, es igual a 500 Ω cada una.
 ![image](https://user-images.githubusercontent.com/105893980/170206702-f48e23cf-8d1d-428c-b294-47121e7e5178.png)
 30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
-![image](https://user-images.githubusercontent.com/105893980/170206762-b766b903-6661-47d9-8320-edee25a0ddb2.png)
+- ![image](https://user-images.githubusercontent.com/105893980/170206762-b766b903-6661-47d9-8320-edee25a0ddb2.png)
 
 - SECCION 2-6 / EL CIRCUITO ELECTRICO
 
@@ -176,10 +176,20 @@ voltímetro 3 medirá las resistencias 1,2,3,4.
 46. ¿Cuál es la resolución máxima de un milímetro digital de 4 ½ dígitos?
 - SOLUCION: Mostrará una resolución máxima de 19.999 recuentos.
 4. VIDEO
-
+- https://youtu.be/4Rbdhj2ssuY
+- https://youtu.be/BqbjGIgz5Lg
+- https://youtu.be/r4yJZdHBN6I
+- https://youtu.be/UfFmad2wqkY
 5. CONCLUSIONES
+- Mediante la practica de los ejercicios propuestos en el libro de Floy se pudo comprobar la ley de Ohm y la ley de Kirchhoff, ademas, se comprobo y analizo las propiedades que distinguian cada una. 
+- Para la medicion de la tension electrica, la corriente y la resistencia fueron utilies los conocimiento previamente adquiridos del capitulo 1 y capitulo 2. 
+- Es importante saber las propiedades de las unidades de mediciones, ya que son base fundamental para la resolucion de problemas que presenta un circuito electrico. 
+- Es de utilidad el reconocimeinto de colores con su respectiva tolerancia para distinguir el valor de cada una de las resistencias, estas pueden ser de 4 o 5 bandas.
 6. BIBLIOGRAFIA
-7. RUBRICA 
+- Floyd, T. L. (2007). Principios de Circuitos Electricos. Mexico: Pearson Educacion.
+7. RUBRICA
+- ![image](https://user-images.githubusercontent.com/105893980/170216638-c91c5eee-7a74-46b8-929c-b2f881587a87.png)
+ 
 
 
 
